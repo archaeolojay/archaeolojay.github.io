@@ -31,11 +31,9 @@ permalink: /readings
 [Trans Ecology](/readings/theory/trans-ecology.md)
 
 ## Method
-[Sonficiation](/readings/method/sonification.md)
+[Sonificiation](/readings/method/sonification.md)
 
 ## Research
 [Steamboat History](/readings/research/steamboat-history.md)
-
-### [Finished Readings](/readings/reading-list.md)
 
 ### [To Read](/readings/to-do.md)
