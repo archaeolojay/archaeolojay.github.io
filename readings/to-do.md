@@ -10,13 +10,11 @@ Priest, Eldritch. "Music Noise" in Boring Formless Nonsense: Experimental Music 
 
 [] Westerkamp H (1974) Soundwalking originally published in Sound Heritage, vol III, Number 4 Victoria B.C., revised 2001
 
-[] [Developing the Practice and Theory of Stream-based Sonification - Steven Barrass](http://scan.net.au/scan/journal/display.php?journal_id=135)
+
 
 [] [Composing Paradoxes: Feminist Process in Sound Arts and Experimental Musics - Holly Ingleton](https://openaccess.city.ac.uk/id/eprint/17510/1/Ingleton,%20Holly%20(redacted).pdf)
 
 https://nmbx.newmusicusa.org/acoustic-ecology-and-the-experimental-music-tradition/ Dunn 2008
-
-https://dfmi.dwrl.utexas.edu/wp-content/uploads/2018/07/Truman-Shannon-Queer-Sonic-Cultures.pdf    // http://capaciousjournal.com/article/queer-sonic-cultures/
 
 https://gupea.ub.gu.se/handle/2077/67024
 
@@ -44,14 +42,9 @@ https://www.erudit.org/en/journals/ethno/2009-v31-n1-ethno3558/038514ar/
 
 http://siupress.siu.edu/books/978-0-8093-2669-3
 
-image sonification
-https://revues.mshparisnord.fr/rhc/index.php?id=348
-
-https://www.researchgate.net/publication/228625435_Sonic_panoramas_Experiments_with_interactive_landscape_image_sonification
-
 Tweet thread recommended by Dr. Graham: https://twitter.com/ArchSoundScapes/status/1373926998054166530
 
-Mlekuz, D. (2004). Listening to landscapes: modelling past soundscapes in GIS. Internet Archaeology, 16 is a classic. 
+
 
 But for the latest, check  work by @CatrionaCooper (who will also have a fuller bibliography to hand). Her thesis definitely covers this: https://catrionacooper.wordpress.com/the-project/
 
@@ -85,14 +78,6 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2021.570741/full
 
 https://water-relations.net/
 
-https://www.routledge.com/Transecology-Transgender-Perspectives-on-Environment-and-Nature/Vakoch/p/book/9780367086510
-
-https://portal.cca.edu/events-calendar/transecologies/
-
-https://www.cca.edu/newsroom/transecologies-explores-ways-relating-nature-without-assimilating/
-
-https://www.danielbcoleman.com/7432010-2019-ecosystem-service-trans-ecologies
-
 https://emergencemagazine.org/essay/river-at-the-heart-of-the-world/
 
 
@@ -105,8 +90,6 @@ https://niche-canada.org/2021/03/11/the-history-of-rivers-can-teach-us-about-dis
 http://www.digitalhumanities.org//dhq/vol/15/1/000508/000508.html
 
 https://datajournalism.com/read/longreads/data-sonification?utm_source=loudnumbers&utm_medium=email
-
-https://atmos.earth/black-feminist-ecological-thought-essay/
 
 
 https://nowviskie.org/2013/resistance-in-the-materials/?utm_source=dhcu&utm_medium=email
