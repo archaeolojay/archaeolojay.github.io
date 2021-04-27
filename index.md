@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Hi! I'm Jaime.
+title: Welcome to my MRE process blog.
 cover: true
 permalink: /
 ---
@@ -16,8 +16,6 @@ permalink: /
 }
 </style>
 
-I'm an M.A. student in Public History and Digital Humanities at Carleton University. 
+This project focuses on the history of steamboats on the Ottawa River from 1830-1920 and their wider implications on the industrialization of the river and settler-colonialism in the Ottawa Valley. 
 
-My current research focuses on the history of steamboats on the Ottawa River from 1830-1920 and their wider implications on the industrialization of the river and settler-colonialism in the Ottawa Valley. As part of this research, I will examine how sound can be used to reconstruct past landscapes and create affective sensorial history. 
-
-This is my personal website - click on the links to learn more about my [resume](/resume), my [projects](/projects), or to [contact me](/contactme). 
+# Notes Directory
