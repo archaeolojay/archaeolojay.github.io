@@ -1,4 +1,4 @@
-#[Queer sonic cultures: An affective walking-composing project](https://dfmi.dwrl.utexas.edu/wp-content/uploads/2018/07/Truman-Shannon-Queer-Sonic-Cultures.pdf)
+# [Queer sonic cultures: An affective walking-composing project](https://dfmi.dwrl.utexas.edu/wp-content/uploads/2018/07/Truman-Shannon-Queer-Sonic-Cultures.pdf)
 
 "intersectional concerns of
 race, gender, and dis/ability determine what kinds of bodies are allowed to walk where (and in this
