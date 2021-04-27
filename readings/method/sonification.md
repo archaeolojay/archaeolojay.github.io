@@ -8,6 +8,8 @@ https://datajournalism.com/read/longreads/data-sonification?utm_source=loudnumbe
 
 https://www.saralenzi.com/datasonificationblog
 
+https://www.ekho-verlag.com/abstracts-crossing-borders/crosssing-borders-hughes-elliott-edmonds/
+
 
 
 ## Image Sonification
