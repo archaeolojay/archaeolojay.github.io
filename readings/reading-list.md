@@ -31,6 +31,10 @@
 [Soundwalking: creating moving environmental sound narratives - McCartney, Andra](https://soundwalkinginteractions.wordpress.com/2010/09/27/soundwalking-creating-moving-environmental-sound-narratives/)
 - [notes](/readings/done/mccartney.md)
 
+### Sound and Coloniality
+[Will Sound Studies Ever "Emerge"? - Jacek Blaszkiewicz](https://jhiblog.org/2021/02/10/will-sound-studies-ever-emerge/amp/?__twitter_impression=true)
+- [notes](/readings/done/laszkiewicz.md
+
 ### General
 [Reading Around Sonification + Sleep Around Before You Marry an Argument](https://tressie.substack.com/p/sleep-around-before-you-marry-an)
 - [notes](/readings/done/reading-around.md)
