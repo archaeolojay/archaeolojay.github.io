@@ -3,7 +3,6 @@ title: Process Notes
 permalink: /process-notes
 ---
 
-# Process Notes:
 ## March
 - [March 14](/process-notes/March/mar14.md)
 - [March 15](/process-notes/March/mar15.md)
@@ -18,5 +17,6 @@ permalink: /process-notes
 - [April 22](/process-notes/April/apr22.md)
 - [April 25](/process-notes/April/apr25.md)
 - [April 26 + Tech Notes](/process-notes/April/tech-notes-apr26.md)
+- [April 27](/process-notes/April/apr27.md)
 
 ## May
