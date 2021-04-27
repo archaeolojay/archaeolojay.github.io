@@ -5,6 +5,13 @@ Andrew Brooks, “Glitch/Failure: Constructing a Queer Politics of Listening,”
 - *the glitch would be useful for describing why data sonifications are left to be so unpleasant (current 4/27/2021 thoughts are to have some done with sound icons and others not?)*
 - to "employ glitch as “a theoretical framework for understanding how disruption, deviation and disorder are productive in [musical] systems.” [8]
 - In glitching, or queering, the voice through technological intervention, Dorian forces the listener to consider the “experience as one that is mediated by technology and the environment.” [9] Electra therefore exposes the artifice of their voice as funneled through process of technology, metaphorically signaling the artifice of gender and conventional understandings of gendered vocal performance. As Brooks points out, this disruption is inherently queer and produces a queer listening practice which “highlights the contextual nature of the listening event … [or] a tuning into the sound of the [gendered] relations” of voice. [10]
+- "Considering performativity as a mode of authoritative speech and the production of static conceptions of gender and identity as the result of rehearsed and reiterated performances, queer theory glitches the understanding of identity as a stable and fixed category by introducing noisy concepts into normative systems" *USEFUL FOR ADDING SONIFICATIONS INTO THE UNDERLYING SOUNDSCAPE*
+- "Glitch, as a process-based art form, destabilizes the centrality of the author in the process of creation. By creating conditions that utilize chance and error as compositional tools, glitch artists create conditions that give rise to emergent systems in which agency is radically distributed. Noise is willfully introduced into sonic systems—as an aberration, error or figure of disruption—then multiplies wildly and unpredictably and manifests as audio noise in the resulting compositions"
+
+
+
+
+
 
 # Queer Listening
 https://rhizome.org/editorial/2014/sep/17/queer-listening-interview-sergei-tcherepnin/
