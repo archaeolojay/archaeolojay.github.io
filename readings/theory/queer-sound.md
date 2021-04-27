@@ -1,4 +1,17 @@
 # Queer Sound
+http://www.radical-musicology.org.uk/2019/Introduction.htm
+
+https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=4187&context=gc_etds
+
+https://hearisqueer.wordpress.com/
+
+https://www.tandfonline.com/doi/full/10.1080/13642529.2017.1422584  Jennifer Evans!
+
+https://www.utpjournals.press/doi/abs/10.3138/jcs-2020-0047
+
+https://www.ucpress.edu/book/9780520241855/the-queer-composition-of-americas-sound 
+
+http://siupress.siu.edu/books/978-0-8093-2669-3
 
 [Partial Figures: Sound in Queer and Feminist Thought - Amalle Dublon](https://dukespace.lib.duke.edu/dspace/handle/10161/16226)
 - [notes](/readings/done/dublon.md)
