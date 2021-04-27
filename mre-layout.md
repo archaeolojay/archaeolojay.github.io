@@ -2,5 +2,13 @@
 title: MRE Layout
 permalink: /mre-layout
 ---
+## Proposal Planning Notes
+- [Proposal Layout](/mre-parts/proposal/prop-layout.md)
 
-Parts of my MRE
+## MRE Planning Notes
+- [Abstract](/mre-parts/MRE/abstract.md)
+- [Acknowledgements](/mre-parts/MRE/acknowledgements.md)
+- [Title Page](/mre-parts/MRE/title-page.md)
+- [Timeline](/mre-parts/timeline.md)
+- [Bibliography](/mre-parts/bibliography.md)
+
