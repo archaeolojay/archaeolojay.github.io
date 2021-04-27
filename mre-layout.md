@@ -7,6 +7,7 @@ permalink: /mre-layout
 
 ## MRE Planning Notes
 - [Abstract](/mre-parts/MRE/abstract.md)
+- [Land Acknowledgement](/mre-parts/MRE/land-acknowledgement.md)
 - [Acknowledgements](/mre-parts/MRE/acknowledgements.md)
 - [Title Page](/mre-parts/MRE/title-page.md)
 - [Timeline](/mre-parts/timeline.md)
