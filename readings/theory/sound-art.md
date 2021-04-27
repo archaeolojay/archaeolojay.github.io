@@ -9,3 +9,5 @@
 ### Sound and Coloniality
 [Will Sound Studies Ever "Emerge"? - Jacek Blaszkiewicz](https://jhiblog.org/2021/02/10/will-sound-studies-ever-emerge/amp/?__twitter_impression=true)
 - [notes](/readings/done/blaszkiewicz.md
+
+https://www.smolicki.com/
