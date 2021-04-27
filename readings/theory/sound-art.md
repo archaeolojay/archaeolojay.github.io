@@ -2,3 +2,10 @@
 
 [The Recording that Never Wanted to be Heard and Other Stories of Sonification - Sterne and Akiyama](https://sterneworks.org/recordingthatneverwanted.pdf)
 - [notes](/readings/done/sterne-akiyama.md)
+
+[Sonic Flux: Sound, Art, and Metaphysics - Cristoph Cox](https://press.uchicago.edu/ucp/books/book/chicago/S/bo27886631.html)
+- [notes](/readings/done/cox.md)
+
+### Sound and Coloniality
+[Will Sound Studies Ever "Emerge"? - Jacek Blaszkiewicz](https://jhiblog.org/2021/02/10/will-sound-studies-ever-emerge/amp/?__twitter_impression=true)
+- [notes](/readings/done/blaszkiewicz.md
