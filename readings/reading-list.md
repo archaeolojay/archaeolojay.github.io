@@ -1,25 +1,4 @@
-# Reading List: Articles + Notes
 
-## Sound
-[The Recording that Never Wanted to be Heard and Other Stories of Sonification - Sterne and Akiyama](https://sterneworks.org/recordingthatneverwanted.pdf)
-- [notes](/readings/done/sterne-akiyama.md)
-
-### Soundscapes
-[Soundscapes as Archives - Jacek Smolicki and Candace Campo](https://seismograf.org/node/19500)
-- [notes](/readings/done/smolicki-campo.md)
-
-### Feminist/Queer Sound
-[A Feminist Approach to Sound in We Need to Talk About Kevin - Brett Ashleigh](https://screen-queens.com/2016/11/17/a-feminist-approach-to-sound-in-we-need-to-talk-about-kevin/) 
-- [notes](/readings/done/ashleigh.md)
-
-[Partial Figures: Sound in Queer and Feminist Thought - Amalle Dublon](https://dukespace.lib.duke.edu/dspace/handle/10161/16226)
-- [notes](/readings/done/dublon.md)
-
-[Still the Silence: Feminist Reflections at the Edges of Sound - Aimee Carrillo Rowe and Sheena Malhotra](https://link.springer.com/chapter/10.1057/9781137002372_1)
-- [notes](/readings/done/rowe-malhotra.md)
-
-[Sonic Flux: Sound, Art, and Metaphysics - Cristoph Cox](https://press.uchicago.edu/ucp/books/book/chicago/S/bo27886631.html)
-- [notes](/readings/done/cox.md)
 
 [To tend for, to care with: three pieces on listening as method - AM Kanngieser](https://theseedbox.se/blog/to-tend-for-to-care-with-three-pieces-on-listening-as-method/)
 - [notes](/readings/done/kanngieser.md)
@@ -30,10 +9,6 @@
 
 [Soundwalking: creating moving environmental sound narratives - McCartney, Andra](https://soundwalkinginteractions.wordpress.com/2010/09/27/soundwalking-creating-moving-environmental-sound-narratives/)
 - [notes](/readings/done/mccartney.md)
-
-### Sound and Coloniality
-[Will Sound Studies Ever "Emerge"? - Jacek Blaszkiewicz](https://jhiblog.org/2021/02/10/will-sound-studies-ever-emerge/amp/?__twitter_impression=true)
-- [notes](/readings/done/blaszkiewicz.md
 
 ### General
 [Reading Around Sonification + Sleep Around Before You Marry an Argument](https://tressie.substack.com/p/sleep-around-before-you-marry-an)
