@@ -55,12 +55,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Resume
-    url:               /resume
-  - title:             Projects
-    url:               /projects
-  - title:             Contact Me
-    url:               /contactme
+  - title:             Process Notes
+    url:               /process-notes
+  - title:             Readings
+    url:               /readings
+  - title:             MRE Layout
+    url:               /mre-layout
 
 legal:
   - title: License
