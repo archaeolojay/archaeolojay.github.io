@@ -116,6 +116,9 @@ https://niche-canada.org/2021/03/01/web-based-hgis-for-storytelling-of-environme
 
 https://theseedbox.se/blog/to-tend-for-to-care-with-three-pieces-on-listening-as-method/
 
+
+
+
 Other Theories to Examine:
 1. Ingold and Phemenomenology
 2. Affect theory
@@ -128,8 +131,6 @@ Other Theories to Examine:
 # [Noise Music](https://en.wikipedia.org/wiki/Noise_music)
 - "Noise music is a genre of music that is characterised by the expressive use of noise within a musical context. This type of music tends to challenge the distinction that is made in conventional musical practices between musical and non-musical sound.[4] Noise music includes a wide range of musical styles and sound-based creative practices that feature noise as a primary aspect."
 
-# [Intermedia](https://en.wikipedia.org/wiki/Intermedia)
-- an interplay between two art forms or two disciplines
 
 Trans ecology
 
@@ -137,7 +138,5 @@ Affect Theory
 
 Performativity
 
-Feminist sound theory?
-
-https://fb.watch/4_LSFsGw3o/ artist talk, Jez riley French, RIVERSSOUNDS
+Feminist sound theory
 
