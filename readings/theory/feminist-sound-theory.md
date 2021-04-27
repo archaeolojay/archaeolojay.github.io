@@ -6,3 +6,5 @@
 
 [Still the Silence: Feminist Reflections at the Edges of Sound - Aimee Carrillo Rowe and Sheena Malhotra](https://link.springer.com/chapter/10.1057/9781137002372_1)
 - [notes](/readings/done/rowe-malhotra.md)
+
+[] [Composing Paradoxes: Feminist Process in Sound Arts and Experimental Musics - Holly Ingleton](https://openaccess.city.ac.uk/id/eprint/17510/1/Ingleton,%20Holly%20(redacted).pdf)
