@@ -17,6 +17,6 @@ permalink: /process-notes
 - [April 20](/process-notes/April/apr20.md)
 - [April 22](/process-notes/April/apr22.md)
 - [April 25](/process-notes/April/apr25.md)
-- [April 26 + Tech Notes](/process-notes/April/technotes-apr26.md)
+- [April 26 + Tech Notes](/process-notes/April/tech-notes-apr26.md)
 
 ## May
