@@ -1,6 +1,6 @@
 ---
-title: Contact Me
-permalink: /contactme
+title: MRE Layout
+permalink: /mre-layout
 ---
 
 Have questions about my work, want to know more, or want to get in touch? Try one of these options:
