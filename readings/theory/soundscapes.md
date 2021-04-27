@@ -1,5 +1,6 @@
 [Soundscapes as Archives - Jacek Smolicki and Candace Campo](https://seismograf.org/node/19500)
 - [notes](/readings/done/smolicki-campo.md)
+https://www.smolicki.com/
 
 Tweet thread recommended by Dr. Graham: https://twitter.com/ArchSoundScapes/status/1373926998054166530
 
