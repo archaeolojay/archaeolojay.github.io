@@ -36,3 +36,82 @@ Truman & Shannon, 2018 4
 Lake District. There are also books about walking as a lost art and books on where to walk as part of
 the pervasive stereotyping of Britain’s ‘green and pleasant land.’ Music demonstrates a similar link
 between nature and nation. ---- this is good bc my project uses both walking in nature and music - good for discussing colonialism!
+
+
+
+
+
+And yet, after Alison Kafer (2013), we are led to wonder what ‘passes’ in/as Nature? The
+sound of footfalls and majority enunciations of English would perhaps seem more natural than
+alternative movement habits (such as automatic wheelchairs), and neurologically and racially diverse
+speech patterns in the countryside. As queer subjects walking in the landscape we might be marked
+as ‘unnatural.’ However, during our walk our cis-genders and whiteness insisted we be read as a
+‘straight’ couple and pass in ways that others never could (“Your… husband? Oh, I’m sorry!
+Boyfriend.”). Carolyn Knowles (2008) discusses how whiteness is produced and flourishes in rural
+Britain and is bolstered by histories (and the ongoing presence) of colonialism and slavery. For
+Knowles, the British “countryside stands for more than it is: it produces, embodies and sustains
+whiteness on behalf of the nation” (170) and maintains a position as the core of British identity. 
+
+
+Springgay and Truman (2018a) critique how walking, when framed through romantic poets
+and naturalists — and, we argue, music composers — operates as a privileged (ableist) practice and a
+white cis-heteronormative time-space. The literary tradition is steeped in tales of lone (white) male
+walkers setting out into the wild in search of inspiration in ways that racialized, gendered, and
+dis/abled bodies historically (and still) could not. According to John Wylie (2005), a walk in the
+English countryside “involves at least some attunement with the various sensibilities still distilling
+from sublime and romantic figurations of the self, travel, landscape and nature” (235). 
+
+
+The link between nature, walking, and creativity has been discussed in many fields, and
+frequently scholars have conducted research that attends specifically to sound and sonic walks in
+varied landscapes (Lorimer & Wylie, 2010; Gallagher, 2016). What are commonly referred to as
+soundwalks are often used to explore the “sonic ecologies of place” (Springgay and Truman, 2017:
+35). Phonographic field recordings in nature typically aspire to a sonic representation of place,
+wherein sounds are selected either for their socio-sonic veracity or else their spectomorphological
+properties (Rennie, 2014). In these productions, the sounds of the recordist are minimized or erased,
+and they often go to great lengths to avoid registering any anthropogenic sounds in order to enact a
+romanticized notion of the ‘natural’ (Gallagher, 2015; Michael, 2011). Increasingly, fields such as
+geomorphology are attempting an artistic representation of landscape, where Nature provides
+“aesthetic inspiration” to the extent that past geomorphological transformations can be discerned
+from historical images, literary accounts and songs (Tooth et al., 2016: 1793; Griffiths et al., 2018). 
+
+## Research-Creation and Queerness
+Research-creation is the interrelated practice of art, theory, and research (Truman & Springgay,
+2015); it is a “thinking-with and across techniques of creative practice” (Manning & Massumi, 2014:
+88-89) that moves away from approaches to qualitative research that assume data can be collected,
+extracted, and then represented, and towards an affective, emergent, relational and more-thanrepresentational approach to doing-research (Thrift, 2007; McCormack, 2008; Truman, 2016). We
+also suggest that a research-creation event invokes a queer temporality in its disruption of regular
+space-time delineations.
+
+
+## Affect
+Affect has been theorized from within a variety of academic lineages (Seigworth and Gregg,
+2010). We understand affect within our research-creation practice as “the becoming sensation, a
+force or intensity manifested at the surface of the body” (Springgay and Zaliwska, 2017: 276-277),
+“found in those intensities that pass body to body… in those resonances that circulate about,
+between…” (Seigworth and Gregg, 2010: 1), felt-or-not, capacitating and debilitating further
+affectivity (Massumi, 2015; Puar, 2017). 
+
+Similar to our critiques of the whiteness of walking and creative inspiration in the landscape,
+we critique affect studies for sometimes erasing patterns of marginalization, and reinscribing
+compulsory white, hetero, europhallic (Moten, 2003) ablebodiedness (Ahmed, 2004, 2010; Weheliye,
+2014; McRuer, 2016; Palmer, 2017; Puar, 2017). When affect is depoliticized and assumes a neutral
+circulation, as well as (state-sanctioned) capacity for affectation, it masks its conflation of neutral as
+white. This re-centers whiteness and ‘Man’ as a universal category (Wynter, 2003). Universal Man
+affects but is never affected. He circulates, builds capacity, and sticks to everything, but nothing
+sticks to him. 
+
+...
+
+More-than-representational practices perform a queer temporality. Each sonic culture is a pressing
+together of ever-multiplying spatial, temporal, and affective emplacements that otherwise could
+never have touched; relived, re-represented, in a queering of chronological time (similar to our
+critiques of affect and walking studies above, queer studies has been critiqued for re-centering
+whiteness and class privilege – Puar, 2007; Muñoz, 2010). 
+
+## More than Archives
+Rather than understanding our sonic cultures as a repository that documents and represents
+our walking-composing project, we understand them as a kind of “anarchive” (Murphie, 2016: np).
+Andrew Murphie (2016) discusses how anarchives, unlike official archives, resist interpretation and
+allow us to instead focus on the affective and material process of production — in this case, sonicaffective. The sonic cultures don’t capture the walk, but more-than-represent it in each anarchival
+listening
