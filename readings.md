@@ -46,5 +46,5 @@ permalink: /readings
 
 ## Research
 [Steamboat History](/readings/research/steamboat-history.md)
-
-### [To Read](/readings/to-do.md)
+[Timber Trade](/readings/research/timber-trade.md)
+[Rivers](/readings/research/rivers.md)
