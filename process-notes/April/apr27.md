@@ -30,11 +30,17 @@ image here
 ### Locations - archives - topic - type
 ![New Project (1)](https://user-images.githubusercontent.com/83255946/116329303-0de6da80-a799-11eb-8669-04a203076b9e.png)
 
+
 Chats Falls - Upper Ottawa Improvement Company fonds - steamboats, about tourism/leisure trips - data or image sonification from gbgreene@aylmer image
+
 Chalk River - Canadian Nuclear Safety Commission archives - river industrialisation? - image sonification
+
 Temiskaming area - Library and Archives Canada, ICO fonds (?) - 
+
 Montebello area - ? - settlement/immigration on return trips from European lumber sales/typhus? - data sonification
+
 Ottawa area - my padlet - shipwrecks over time as connection to needing to go further for logging - data sonification
+
 Mattawa area (?) - ? - ? - image sonification
 
 
