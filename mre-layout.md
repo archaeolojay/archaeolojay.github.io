@@ -4,6 +4,7 @@ permalink: /mre-layout
 ---
 ## Proposal Planning Notes
 - [Proposal Layout](/mre-parts/proposal/prop-layout.md)
+- [Accessibility Plans](/mre-parts/proposal/accessibility-plans.md)
 
 ## MRE Planning Notes
 - [Abstract](/mre-parts/MRE/abstract.md)
