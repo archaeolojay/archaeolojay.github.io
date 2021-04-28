@@ -21,4 +21,22 @@ ii.    Sonification of shipwrecks in area: Aileen, 1914; Temiskaming, 1926; Mete
 
 If I go with the steamship images (if it’s split into three tracks), then I would use the pitch map of the photosounder of an image (not the direct sound) and not the direct photosounder sound, because in my tests with the Ann Sisson there was a lot of very similar noise and it’s very unpleasant to listen to, and (in my opinion) doesn’t really serve to create affect.
 
+## Base Planning Map
 ![Planning Map](https://user-images.githubusercontent.com/83255946/116326919-a0847b00-a793-11eb-9438-e8318dcd2c16.png)
+
+## In-Depth Planning Map
+image here
+
+### Locations - archives - topic - type
+Chats Falls - Upper Ottawa Improvement Company fonds - steamboats, about tourism/leisure trips - data or image sonification from gbgreene@aylmer image
+Chalk River - Canadian Nuclear Safety Commission archives - river industrialisation? - image sonification
+Temiskaming area - Library and Archives Canada, ICO fonds (?) - 
+Montebello area - ? - settlement/immigration on return trips from European lumber sales/typhus? - data sonification
+Ottawa area - my padlet - shipwrecks over time as connection to needing to go further for logging - data sonification
+Mattawa area (?) - ? - ? - image sonification
+
+
+
+
+
+
