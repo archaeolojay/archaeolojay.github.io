@@ -20,6 +20,8 @@ permalink: /process-notes
 - [April 27](/process-notes/April/apr27.md)
 
 Project Map
-![New Project](https://user-images.githubusercontent.com/83255946/116326919-a0847b00-a793-11eb-9438-e8318dcd2c16.png)
+![New Project (1)](https://user-images.githubusercontent.com/83255946/116329303-0de6da80-a799-11eb-8669-04a203076b9e.png)
+
+[Explanations + Current Thoughts](/process-notes/April/apr27.md)
 
 ## May
