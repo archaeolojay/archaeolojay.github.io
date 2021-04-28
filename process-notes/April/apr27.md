@@ -21,4 +21,4 @@ ii.    Sonification of shipwrecks in area: Aileen, 1914; Temiskaming, 1926; Mete
 
 If I go with the steamship images (if it’s split into three tracks), then I would use the pitch map of the photosounder of an image (not the direct sound) and not the direct photosounder sound, because in my tests with the Ann Sisson there was a lot of very similar noise and it’s very unpleasant to listen to, and (in my opinion) doesn’t really serve to create affect.
 
-![Planning Map](
+![Planning Map](https://user-images.githubusercontent.com/83255946/116326919-a0847b00-a793-11eb-9438-e8318dcd2c16.png)
