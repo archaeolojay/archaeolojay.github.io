@@ -28,3 +28,5 @@ https://images.maritimehistoryofthegreatlakes.ca/107799/data?n=2
 https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0101348
 
 http://www.cchahistory.ca/journal/CCHA1935-36/Gallagher.pdf
+
+https://www.jstor.org/stable/41977180?seq=1
