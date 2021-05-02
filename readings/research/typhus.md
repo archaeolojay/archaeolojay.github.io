@@ -26,3 +26,5 @@ https://images.maritimehistoryofthegreatlakes.ca/107799/data?n=2
 
 ## Canadian Responses to Typhoid and data tables on Bytown!
 https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0101348
+
+http://www.cchahistory.ca/journal/CCHA1935-36/Gallagher.pdf
