@@ -13,3 +13,5 @@ radical black ecologies, @carolyn Prouse, retweeted by John C. Walsh. @demonicgr
 Jennifer evans thread about @SaraNAhmed (2013) point that citation practices serve as "a way of reproducing the world around certain bodies" and that citation structures disciplines. (whole working Jennifer Evans', quote Sara N. Ahmed.
   Sara N. Ahmed: "The reproduction of a discipline can be the reproduction of these techniques of selection, ways of making certain bodies and thematics core to the discipline, and others not even part."
   https://latrobe.libguides.com/gender/referencing link to her various articles; "Making Feminist Points" is where these quotes are from.
+
+https://epoiesen.library.carleton.ca/2018/09/10/1-editorial-citation-as-act-of-enchantment/
