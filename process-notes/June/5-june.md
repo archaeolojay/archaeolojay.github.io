@@ -24,6 +24,8 @@ Loud Numbers, a sonification podcasting duo of Miriam Quick and Duncan Geere, ho
 2:18:36 Break - Modular Synth Performance
 
 2:47:50 Kofi Oduro - Sonification of Our Senses
+* sonic pi, hydra, and tidal cycles
+* live coding using sonic pi; hydra for creating visual arts
 
 3:17:08 Simon Huwiler - A Song of Crowns and Tears
 
