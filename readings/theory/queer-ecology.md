@@ -1,6 +1,6 @@
 # Queer Ecology
 
-### Locating Queer Ecologies, 
+### Introduction: Locating Queer Ecologies, Nicole Seymour
 - "More broadly, these
 readings perform what David Mazel calls poststructuralist ecocriticism: “a way of reading environmental literature and canonical landscapes . . . that attends concurrently to the discursive construction of both . . . environment and . . . subjectivity” and that analyzes environment “as a powerful site for naturalizing constructs of race, class, nationality, and gender” (American Literary Environmentalism xxi)."
 - "And I show that the environment can function as a site not just for establishing such constructs, but for challenging them."
@@ -30,23 +30,45 @@ not, is grounded on binary difference and thus unhelpful for the kinds of differ
 care that have emerged from ecofeminist quarters have therefore often been based in essentialist beliefs—say, that women, being sensitive creatures,
 are uniquely equipped to care for animals.12 In the same way, masculinist brands of ecocriticism have upheld fundamentalist beliefs about maleness.13
 And it likely goes without saying at this point that nature is essentialized in much ecocriticism, posited as pristine, primal, or at least self-evident."
-- "My texts, in response, ask
-a galvanizing set of questions around empathy: What if we could imagine
-that environmental catastrophe does matter, even, or perhaps especially, if
-we are not going to witness its effects? How might that imagination function as a form of queer survival? How could we develop, and strengthen,
-that imagination? I argue that a concept of queer time that is attuned to
-18 chapter 1
-Seymour_Strange.indd 18 2/4/13 10:28 AM
-environmentalism’s focus on futurity—on the long- and short-term effects
-of policies and products; on health outcomes for humans and non-humans
-alike; on sustainable practices—is one place to start." --> LOOK INTO QUEER TIME
+- "My texts, in response, ask a galvanizing set of questions around empathy: What if we could imagine that environmental catastrophe does matter, even, or perhaps especially, if we are not going to witness its effects? How might that imagination function as a form of queer survival? How could we develop, and strengthen, that imagination? I argue that a concept of queer time that is attuned to environmentalism’s focus on futurity—on the long- and short-term effects of policies and products; on health outcomes for humans and non-humans alike; on sustainable practices—is one place to start." --> LOOK INTO QUEER TIME
+- "Noël Sturgeon has recently noted that popular children’s texts such as Captain Planet, The Lion King, Pocahontas, and White Fang 2 regularly feature “an association . . . between homosexuality, evil, and environmental destruction, coupled with . . . anxiety about the successful reproduction of the white, middle-class, nuclear family form[, which] is presented as ‘normal’ and ‘natural’ without any critique of its complicity in the overconsumption of corporate products in an environmentally destructive system in which the toxins, waste, pollution and radiation produced are visited on the poor, the people of color, and the tribal peoples of the world” (“The Power Is Yours” 263)"
+- "In this book, I employ “queer” as most queer theorists do: to describe
+that which questions the naturalness, and undermines the stability, of
+established categories of sex, gender, and sexuality. The texts in my archive
+are queer in that sense, staging incoherencies among those categories
+and indicting heterosexist ideals of health, reproductivity, individuality,
+domesticity, and capital accumulation."
 
 
 
 
 
+TO READ:
+https://lauraodbeke.files.wordpress.com/2021/05/melancholy_natures_queer_ecologies_c_m_sandilands.pdf
+https://niche-canada.org/2020/06/02/succession-queering-the-environment-an-introduction/
+https://niche-canada.org/2020/06/18/queer-environmental-futures/
+https://www.cbc.ca/life/hellospring/queer-ecology-helps-us-understand-the-natural-world-out-about-1.6013181
+https://www.ecopoliticspodcast.ca/episode-9-ecofeminism-and-queer-ecology-2/
+https://orionmagazine.org/article/how-to-queer-ecology-once-goose-at-a-time/
+
+Queer Time:
+https://daily.jstor.org/queer-time-the-alternative-to-adulting/
+https://www.uwo.ca/theory/current_students/course_descriptions/Roulston%20-%20QueerTemporalities%202017.pdf
+https://www.lambdaliterary.org/2020/07/queer-time/
+https://radiantbutch.medium.com/heterotemporality-and-queer-time-b91cce4f538e
+https://www.dukeupress.edu/queer-temporalities
+https://journals.sagepub.com/doi/10.1177/10826602015002002
+https://www.mcgill.ca/queerequity/resources/montreal-resources
+https://niche-canada.org/2020/06/30/black-lives-black-birds-and-the-unfinished-work-of-queer-ecologies/
+https://niche-canada.org/2020/06/23/queering-ecofeminism-towards-an-anti-far-right-environmentalism/
 
 
+
+
+BIPOC ENVIRONMENTAL THEORISTS TO LOOK INTO:
+- Neel Ahuja, Billy-Ray Belcourt (Driftpile Cree), Oliver Baez Bendorf, adrienne maree brown, Mel Y. Chen, Chelsea Mikael Frazier, Zakiyyah Iman Jackson, Tommy Pico (Kumeyaay), Junauda Petrus, Kim TallBear (Sisseton Wahpeton Oyate), Priscilla Solis Ybarra, and the aforementioned Christian Cooper and J. Drew Lanham, SOLOMON BROWN
+- LOOK INTO INDIGENOUS THEORISTS
+- ALSO ADELE PERRY'S WATER
 
 
 
